@@ -1,5 +1,6 @@
 # admin-panel
 Template dashboard atau halaman admin dalam mengelola tampilan website, dibuat menggunakan html, css, javascript dan bootstrap 5
+
 Content:
 1. Halaman Utama
 2. Halaman Login
